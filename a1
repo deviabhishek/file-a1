@@ -1,0 +1,4 @@
+ hiall 
+ printf(hellow world);
+ scanf(%d);
+ 
